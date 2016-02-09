@@ -332,5 +332,5 @@ Once again, just to recap, here's the flow of data through our Ember app:
 * The adapter receives the response from the API, puts it in the data store, and the route handler gets the data out of the store.
 * The route handler sets the `model` property equal to that data and passes `model` down into the template to be rendered.
 
-
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/ember-mvc-intro' title='ember-mvc-intro'>ember-mvc-intro</a> on Learn.co and start learning to code for free.</p>
 
