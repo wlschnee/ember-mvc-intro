@@ -18,7 +18,7 @@ Our code snippets will be based on a simple app in which Ember connects to a Rai
 
 In Ember, the MVC framework is *slightly* different from Rails. In Ember, we have the following:
 
-* **Models:** Just like in Rails, Ember models provide objects with with to wrap the database records. 
+* **Models:** Just like in Rails, Ember models provide objects with which to wrap the database records. 
 * **Views:** Ember templates are the view component of the Ember app. These templates use the Handlebars templating language, which allows us to inject data dynamically into the view. This is the equivalent of ERB in our Rails views. 
 * **Controllers:** In Ember, the job of the controller (getting data and passing it to the view) is actually handled not by controllers but by route handlers. We'll take a closer look at this in a minute. 
 
@@ -334,3 +334,5 @@ Once again, just to recap, here's the flow of data through our Ember app:
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/ember-mvc-intro' title='ember-mvc-intro'>ember-mvc-intro</a> on Learn.co and start learning to code for free.</p>
 
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/ember-mvc-intro'>Introduction to Ember MVC</a> on Learn.co and start learning to code for free.</p>
