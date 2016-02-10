@@ -32,7 +32,7 @@ Let's take a closer look at the elements of an Ember app now.
 
 ## The Router and Route Handlers
 
-Routes in Ember function exactly as they do in Rails. Routes receive a web request and send that request to the appropriate part of your app. However, in Rails, a route sends a request to the appropriate in controller action, which gets the requested data and passes it to the view. In Ember, the route passes the request to the *route handler*, which does the job of the Rails controller: get the requested data and pass it to a view, or template, as we say in Ember Land. 
+Routes in Ember function exactly as they do in Rails. Routes receive a web request and send that request to the appropriate part of your app. However, in Rails, a route sends a request to the appropriate controller action, which gets the requested data and passes it to the view. In Ember, the route passes the request to the *route handler*, which does the job of the Rails controller: get the requested data and pass it to a view, or template, as we say in Ember Land. 
 
 Let's take a look at our router for our Flatiron Grad app:
 
@@ -334,3 +334,5 @@ Once again, just to recap, here's the flow of data through our Ember app:
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/ember-mvc-intro' title='ember-mvc-intro'>ember-mvc-intro</a> on Learn.co and start learning to code for free.</p>
 
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/ember-mvc-intro'>Introduction to Ember MVC</a> on Learn.co and start learning to code for free.</p>
