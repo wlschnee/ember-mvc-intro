@@ -65,7 +65,7 @@ export default Ember.Route.extend({
 });
 ```
 
-The route handler sets a property, `modle`, equal to a function that returns the requested data, in this case all of the graduates. We'll come back to how to grab all of the graduates from the API later. For now, we'll just hard-code in some graduate data to return:
+The route handler sets a property, `model`, equal to a function that returns the requested data, in this case all of the graduates. We'll come back to how to grab all of the graduates from the API later. For now, we'll just hard-code in some graduate data to return:
 
 ```javascript
 // app/routes/graduates.js
@@ -334,3 +334,5 @@ Once again, just to recap, here's the flow of data through our Ember app:
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/ember-mvc-intro' title='ember-mvc-intro'>ember-mvc-intro</a> on Learn.co and start learning to code for free.</p>
 
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/ember-mvc-intro'>Introduction to Ember MVC</a> on Learn.co and start learning to code for free.</p>
