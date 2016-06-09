@@ -2,11 +2,11 @@
 
 ## What is Ember?
 
-Ember is a front-end framework for building web applications. It uses the MVC framework to serve data to views that update automatically as the underlying data changes. Ember makes building a responsive web application super easy. Using Ember controllers and components, allowing our app to respond to the user's actions on the page is fast and easy. Even complex interactions and changes to the DOM can be implemented with relative simplicity. Ember also makes data retrieval and serialization simple: you don't need to display JSON retrieved from your server. Ember does it for us!
+Ember is a front-end framework for building web applications. It uses the MVC framework to serve data to views that update automatically as the underlying data changes. Ember makes building a responsive web application super easy. Using Ember controllers and components, allowing our app to respond to the user's actions on the page is fast and easy. Even complex interactions and changes to the DOM can be implemented with relative simplicity.
 
 Ember doesn't have its own persistence layer. It communicates with an external API or a database like Firebase to get and post data. But don't worry! Ember makes data retrieval and serialization simple: you don't need to display JSON retrieved from your server. Ember does it for us!
 
-Let's take a closer look at how MVC architecture is implemented in Ember. This reading will include some code snippets. Don't worry about understanding every line of Javascript. Instead, focus on understanding the big picture: how do the different pieces of an Ember app fit together?
+Let's take a closer look at how MVC architecture is implemented in Ember.
 
 ## Before You Begin
 
@@ -336,3 +336,5 @@ Once again, just to recap, here's the flow of data through our Ember app:
 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/ember-mvc-intro'>Introduction to Ember MVC</a> on Learn.co and start learning to code for free.</p>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/ember-mvc-intro'>Introduction to Ember MVC</a> on Learn.co and start learning to code for free.</p>
